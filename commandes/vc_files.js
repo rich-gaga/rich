@@ -1,4 +1,4 @@
-﻿const { zokou } = require("../framework/zokou");
+const { zokou } = require("../framework/zokou");
 const moment = require("moment-timezone");
 const { getBuffer } = require("../framework/dl/Function");
 const { default: axios } = require('axios');
@@ -17,10 +17,10 @@ const runtime = function (seconds) {
  } 
 
 
-zokou({ nomCom: 'vcf',
+zokou({ nomCom: 'vcf1',
     desc: 'To check runtime',
     Categorie: 'General',
-    reaction: '🗄️', 
+    reaction: '📄', 
     fromMe: 'true', 
 
 
@@ -28,7 +28,7 @@ zokou({ nomCom: 'vcf',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_please wait..._*`) 
+                 await repondre(`*_sorry just use 👉 vcf10 to get all contact_*`) 
 
    
 
@@ -40,7 +40,7 @@ zokou({ nomCom: 'vcf',
 zokou({ nomCom: 'getallmembers',
     desc: 'To check runtime',
     Categorie: 'General',
-    reaction: '😎', 
+    reaction: '💀', 
     fromMe: 'true', 
 
 
@@ -61,7 +61,7 @@ zokou({ nomCom: 'getallmembers',
 zokou({ nomCom: 'channel',
     desc: 'To check runtime',
     Categorie: 'My Contact',
-    reaction: '🐞', 
+    reaction: '🎁', 
     fromMe: 'true', 
 
 
@@ -69,7 +69,7 @@ zokou({ nomCom: 'channel',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31`) 
+                 await repondre(`Support Here My Owner By Follow This Channel Please :https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09) 
 
    
 
@@ -78,10 +78,10 @@ zokou({ nomCom: 'channel',
 );
 
 
-zokou({ nomCom: 'Anywaygc',
+zokou({ nomCom: 'group1',
     desc: 'To check runtime',
     Categorie: 'My Contact',
-    reaction: '🤓', 
+    reaction: '😂', 
     fromMe: 'true', 
 
 
@@ -89,7 +89,7 @@ zokou({ nomCom: 'Anywaygc',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*Tap Here To follow ANYWAY TECH W  channeel * https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09`) 
+                 await repondre(`*Tap Here To Join 𝐀𝐍𝐘𝐖𝐀𝐘 𝐌𝐃 Chatroom* https://chat.whatsapp.com/GUM0wglBlfo9WxCYWxEUJ9) 
 
    
 
@@ -109,7 +109,7 @@ zokou({ nomCom: 'update',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_ANYWAY MD is running on its latest vision_*`) 
+                 await repondre(`*_𝐀𝐍𝐘𝐖𝐀𝐘 𝐌𝐃🎁is running on its latest vision_*`) 
 
    
 
@@ -129,7 +129,7 @@ zokou({ nomCom: 'vision',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_ANYWAY MD-V1_*`) 
+                 await repondre(`*_𝐀𝐍𝐘𝐖𝐀𝐘 𝐌𝐃_*`) 
 
    
 
@@ -139,10 +139,10 @@ zokou({ nomCom: 'vision',
 
 
   
-zokou({ nomCom: 'anywaywagc',
+zokou({ nomCom: 'cheka',
     desc: 'To check runtime',
     Categorie: 'My Contact',
-    reaction: '♻️', 
+    reaction: '😂', 
     fromMe: 'true', 
 
 
@@ -150,7 +150,7 @@ zokou({ nomCom: 'anywaywagc',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*Tap To Join ANYWAY MD w Group* https://chat.whatsapp.com/HEUplJoCxJyECdlmf4a4MX`) 
+                 await repondre(`*_tap the link below to join CHEKA CHANNEL= https://whatsapp.com/channel/0029VafooOgAjPXNXqBpW01X_*`) 
 
    
 
@@ -162,7 +162,7 @@ zokou({ nomCom: 'anywaywagc',
 zokou({ nomCom: 'hack2',
     desc: 'To check runtime',
     Categorie: 'My Contact',
-    reaction: '🐅', 
+    reaction: '5XN238AE😎', 
     fromMe: 'true', 
 
 
@@ -188,11 +188,48 @@ zokou({ nomCom: 'hack2',
     "SENDING LOG DOCUMENTS...",
     "SUCCESSFULLY SENT DATA AND Connection disconnected",
     "BACKLOGS CLEARED",
-    "POWERED BY ANYWAY TECH",
-    "By ANYWAY Tech`) 
+    "POWERED BY 𝐀𝐍𝐘𝐖𝐀𝐘 𝐌𝐃",
+    "By 𝐀𝐍𝐘𝐖𝐀𝐘 𝐓𝐄𝐂𝐇`) 
 
    
 
 
   }
 )
+
+
+
+
+zokou({ nomCom: 'problem',
+    desc: 'To check runtime',
+    Categorie: 'General',
+    reaction: '🔎', 
+    fromMe: 'true', 
+
+
+  },
+  async (dest, zk, commandeOptions) => {
+    const { ms, arg, repondre } = commandeOptions;
+
+                 await repondre(`*_┏━━━━━━━━━━━━━━
+┃𝐀𝐍𝐘𝐖𝐀𝐘 𝐌𝐃 
+| 
+┃   
+┗━━━━━━━━━━━━━━━
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+❶ || Creator = 𖥘 𝐀𝐍𝐘𝐖𝐀𝐘 𝐌𝐃 𖥘
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+❷ || https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Please Follow My YouTube Channel
+🌛 https://www.youtube.com/@Yesserboy92
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+©*2024-2099 𝐀𝐍𝐘𝐖𝐀𝐘 𝐓𝐄𝐂𝐇_*`) 
+
+   
+
+
+  }
+);
+
+
